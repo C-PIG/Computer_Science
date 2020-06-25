@@ -21,7 +21,7 @@
     - git config 级别：
         + --system: 系统级设置
         + --global: 全局级设置
-        + --system: 仓库级设置
+        + --local: 仓库级设置
     
 - Vim
 
